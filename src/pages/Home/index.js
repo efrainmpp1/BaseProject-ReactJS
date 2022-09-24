@@ -7,7 +7,6 @@ const Home = () => {
         <p>Hello World!!</p>
         <p>Welcome to Home Page!!!</p>
       </header>
-      <h1>Oi</h1>
     </div>
   )
 }

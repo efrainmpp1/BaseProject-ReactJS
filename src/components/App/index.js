@@ -1,13 +1,7 @@
 import React from 'react'
+import Routes from '../../routes'
 
 const App = () => {
-  return (
-    <div>
-      <header>
-        <p>Hello World!!</p>
-        <p>Welcome to Home Page!!!</p>
-      </header>
-    </div>
-  )
+  return <Routes />
 }
 export default App
