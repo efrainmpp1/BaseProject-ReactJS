@@ -17,8 +17,7 @@
         "sourceType": "module",
         "ecmaFeatures": {
           "jsx": false
-        },
-        "requireConfigFile": false  
+        }
     },
     "plugins": [
         "react",
