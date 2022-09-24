@@ -30,8 +30,7 @@
       "semi":"off",
       "comma-dangle":"off",
       "arrow-body-style":"off",
-      "react/function-component-definition":  [2, { "namedComponents": ["arrow-function" , "function-expression" ] }]
-      
-
+      "react/function-component-definition":  [2, { "namedComponents": ["arrow-function" , "function-expression" ] }],
+      "linebreak-style":"off"
     }
 }
