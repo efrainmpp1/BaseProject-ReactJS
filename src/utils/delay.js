@@ -1,5 +1,2 @@
-const delay = (ms = 150) =>
-  new Promise((resolve) => {
-    resolve(setTimeout(null, ms))
-  })
+const delay = (ms = 150) => Promise.resolve(setTimeout(null, ms))
 export default delay
