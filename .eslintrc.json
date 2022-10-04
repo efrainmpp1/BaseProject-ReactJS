@@ -1,6 +1,6 @@
 {
     "env": {
-        "browser": false,
+        "browser": true,
         "es2021": true,
         "node": true,
         "jest": true
@@ -31,6 +31,7 @@
       "comma-dangle":"off",
       "arrow-body-style":"off",
       "react/function-component-definition":  [2, { "namedComponents": ["arrow-function" , "function-expression" ] }],
-      "linebreak-style":"off"
+      "linebreak-style":"off",
+      "operator-linebreak":"off"
     }
 }
